@@ -1,0 +1,27 @@
+{
+    "name": "game",
+    "version": "1.0.1",
+    "description": "Show Game Activity Plugin For Discord. Allow You To control When Your Game & App Activities Are Shown In Your Discord Profile. ",
+    "main": "plugin.js",
+    "scripts": {
+      "test": "run.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/TheoPerson/ShowGameActivity.git"
+    },
+    "keywords": [
+      "toggle",
+      "plugin",
+      "gameactivity",
+      "jug_sec",
+      "nodejs"
+    ],
+    "author": "JUG_SEC",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/TheoPerson/ShowGameActivity/issues"
+    },
+    "homepage": "https://github.com/TheoPerson/ShowGameActivity#readme"
+  }
+  
